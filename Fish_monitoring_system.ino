@@ -102,17 +102,17 @@ hd44780::fatalError(status); // does not return
   delay(MINDELAY);
   lcd.clear();
   lcd.setCursor(0,0);
-  lcd.print("Rilwan Aliyu");
+  lcd.print("");
   delay(MINDELAY);
   lcd.setCursor(0,1);
-  lcd.print("SPS/20/MPY/00007");
+  lcd.print("");
   delay(MAXDELAY);
   lcd.clear();
   lcd.setCursor(0,0);
-  lcd.print("Supervised by: ");
+  lcd.print("");
   delay(MINDELAY);
   lcd.setCursor(0,1);
-  lcd.print("Prof. Galadanci");
+  lcd.print("");
   delay(MAXDELAY);
   lcd.clear();
 
