@@ -1,5 +1,4 @@
 # Fish-Pond-System
-# Dryer Monitor System
 
 This project implements a Dryer Monitor System using an Arduino-based microcontroller. The system monitors and logs environmental data, including temperature, humidity, wind speed, and smoke levels, while providing alerts when thresholds are exceeded. 
 
@@ -77,7 +76,8 @@ This project implements a Dryer Monitor System using an Arduino-based microcontr
 
 ## Authors
 - Abdulrahman Abdulrahman
-abdulrahamanbabatunde12@gmail.com
+  abdulrahamanbabatunde12@gmail.com
+  +234-906-802-9427
 
 ## License
 This project is open-source and available for educational and non-commercial use. Modify and improve it as needed.
